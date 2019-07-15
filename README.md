@@ -1,6 +1,4 @@
-# CA-datalake-SQL
-
-boilerplate: https://github.com/xyzarivera/flask-api-sqlalchemy
+# flask-api-sqlalchemy
 
 ## Installation
 
@@ -15,9 +13,14 @@ python3 build_database.py
 ```
 
 ### Start server
-
 `python3 server.py`
 
 ### Stop virtual environment
 
 `deactivate`
+
+## Sources
+
+- https://auth0.com/blog/developing-restful-apis-with-python-and-flask/
+- https://realpython.com/flask-connexion-rest-api/
+- https://realpython.com/flask-connexion-rest-api-part-2/
